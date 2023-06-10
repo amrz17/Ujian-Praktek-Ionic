@@ -1,0 +1,7 @@
+{
+  "name": "UjianP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
